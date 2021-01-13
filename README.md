@@ -1,5 +1,5 @@
 # Title :
-## Smart Lock System For Bank Vaults.
+Smart Lock System For Bank Vaults.
 
 # Description :
 The human based security for handling locker rooms can be replaced by using smart locks with OTP.
@@ -18,5 +18,5 @@ The incorrect password attempt for more than 3 times will activate the GSM to se
 Some unwanted vibrations occured on the locker (more than a threshold ) will activate a security call.
 
 # Compatibility :
-This works with 2g bandwidth to attain max signals in the bank vaults
+This works with 2g bandwidth to attain max signals inside the bank vaults.
 
